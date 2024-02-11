@@ -1,0 +1,8 @@
+*.json
+venv/
+.idea/
+cmd.md
+.DS_Store
+
+__pycache__/
+*.py[cod]
