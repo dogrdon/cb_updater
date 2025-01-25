@@ -3,6 +3,7 @@ venv/
 .idea/
 cmd.md
 .DS_Store
+docker_images/
 
 __pycache__/
 *.py[cod]
